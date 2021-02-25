@@ -1,0 +1,27 @@
+{
+    "name" : "Todo List PWA",
+    "short_name" : "Todo List",
+    "description" : "Un todo list para probar las PWA (Progresive Web Apps)",
+    "start_url" : "index.html",   
+    "icons" : [
+        {
+            "src" : "/icons/32x32.png",
+            "sizes" : "32x32",
+            "type" : "image/png"
+        },
+        {
+            "src" : "/icons/48x48.png",
+            "sizes" : "48x48",
+            "type" : "image/png"
+        },
+        {
+            "src" : "/icons/32x32.png",
+            "sizes" : "512x512",
+            "type" : "image/png"
+        }
+    ],
+    "theme_color" : "#111111",
+    "background_color" : "#DDDDDD",
+    "display" : "fullscreen",
+    "orientation" :  "portrait"
+}
